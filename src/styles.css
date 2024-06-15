@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tabButton {
+  background-color: black;
+  color: white;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  width: 80px;
+  height: 38px;
+  border-radius: 6px;
+  margin: 10px;
+}
+
+.tabContent {
+  margin-top: 20px;
+}
